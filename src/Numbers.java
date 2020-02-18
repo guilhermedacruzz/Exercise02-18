@@ -1,5 +1,3 @@
-package Exercise01;
-
 public class Numbers {
 
     private final int START = 1;

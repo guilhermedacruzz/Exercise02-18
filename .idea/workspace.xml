@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077b2ada-f50b-48d8-9591-c97bbc190c9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercise02/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise18-02/Exercise01/MainUm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise18-02/Exercise01/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise18-02/Exercise01/Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise18-02/MegaSena/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise18-02/MegaSena/MegaSena.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise18-02/MegaSena/MegaSena.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise01/MainUm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise01/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise01/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MegaSena/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MegaSena/MegaSena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MegaSena/MegaSena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise18-02/Exercise01/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise18-02/MegaSena/MegaSena.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise01/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise02/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MegaSena/MegaSena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MegaSena.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Triangle">
+  <component name="RunManager" selected="Application.Statistic">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MegaSena.Main" />
       <module name="Exercise18-02" />
@@ -58,7 +55,7 @@
       <module name="Exercise18-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise01.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +64,11 @@
       </method>
     </configuration>
     <configuration name="MegaSena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MegaSena.MegaSena" />
+      <option name="MAIN_CLASS_NAME" value="MegaSena" />
       <module name="Exercise18-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MegaSena.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Statistic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statistic" />
+      <module name="Exercise18-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise02.Triangle" />
+      <option name="MAIN_CLASS_NAME" value="Triangle" />
       <module name="Exercise18-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise02.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Statistic" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.MegaSena" />
         <item itemvalue="Application.MainUm" />
@@ -115,21 +120,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="192" key="GridCell.Tab.0.bottom" timestamp="1582052804802">
+    <state x="1845" y="50" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582053355981">
       <screen x="1366" y="-219" width="1366" height="768" />
     </state>
-    <state width="1322" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582052804802" />
-    <state width="1322" height="192" key="GridCell.Tab.0.center" timestamp="1582052804802">
+    <state x="1845" y="50" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582053355981" />
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom" timestamp="1582061352676">
       <screen x="1366" y="-219" width="1366" height="768" />
     </state>
-    <state width="1322" height="192" key="GridCell.Tab.0.center/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582052804802" />
-    <state width="1322" height="192" key="GridCell.Tab.0.left" timestamp="1582052804802">
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582061352676" />
+    <state width="1322" height="192" key="GridCell.Tab.0.center" timestamp="1582061352676">
       <screen x="1366" y="-219" width="1366" height="768" />
     </state>
-    <state width="1322" height="192" key="GridCell.Tab.0.left/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582052804802" />
-    <state width="1322" height="192" key="GridCell.Tab.0.right" timestamp="1582052804802">
+    <state width="1322" height="192" key="GridCell.Tab.0.center/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582061352676" />
+    <state width="1322" height="192" key="GridCell.Tab.0.left" timestamp="1582061352676">
       <screen x="1366" y="-219" width="1366" height="768" />
     </state>
-    <state width="1322" height="192" key="GridCell.Tab.0.right/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582052804802" />
+    <state width="1322" height="192" key="GridCell.Tab.0.left/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582061352676" />
+    <state width="1322" height="192" key="GridCell.Tab.0.right" timestamp="1582061352676">
+      <screen x="1366" y="-219" width="1366" height="768" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.right/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582061352676" />
+    <state x="1705" y="63" key="run.anything.popup" timestamp="1582055127229">
+      <screen x="1366" y="-219" width="1366" height="768" />
+    </state>
+    <state x="1705" y="63" key="run.anything.popup/0.0.1366.768/1366.-219.1366.768@1366.-219.1366.768" timestamp="1582055127229" />
   </component>
 </project>
