@@ -15,6 +15,9 @@ public class Statistic {
         }while(sequence.get(i) > -1);
         sequence.remove(i);
 
+        if(sequence == null || sequence.isEmpty())
+            System.exit(0);
+
         Statistic s = new Statistic();
 
         System.out.printf("O maior número:\t%d\n", s.biggestNumbers(sequence));
@@ -80,5 +83,4 @@ public class Statistic {
 
         return number - mean;
     }
-
 }
