@@ -1,3 +1,5 @@
+package MegaSena;
+
 import java.util.Random;
 
 public class MegaSena {
