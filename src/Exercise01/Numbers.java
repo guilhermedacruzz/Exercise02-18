@@ -5,6 +5,14 @@ public class Numbers {
     private final int START = 1;
     private final int STOP = 2500;
 
+    public static void main(String[] args){
+        Numbers n = new Numbers();
+        n.division(11, 5);
+        n.pairNumbers(2);
+        n.pairNumbers(1);
+        n.primeNumbers();
+    }
+
     public void division(int divider, int rest){
         System.out.printf("Números que divididos por %d tem resto %d:\t", divider, rest);
         for(int i = START; i < STOP; i++)
