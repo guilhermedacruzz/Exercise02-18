@@ -27,6 +27,7 @@ public class Triangle {
         }
         return false;
     }
+
     public static void triangleType(int triangle[]){
 
         System.out.print("O triângulo é ");
